@@ -145,5 +145,9 @@
   "health_title": "Health Awareness",
   "health_content": "Health Awareness Page",
   "cancer_title": "Cancer Awareness",
-  "cancer_content": "Cancer Awareness Page"
+  "cancer_content": "Cancer Awareness Page",
+  "restart_required": "Restart Required",
+  "restart_content": "The app needs to restart to apply the language change.",
+  "restart_now": "Restart Now",
+  "restart_warning": "Note: Please restart the app for language changes to take full effect."
 }
